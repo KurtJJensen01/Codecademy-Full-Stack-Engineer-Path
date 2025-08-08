@@ -14,12 +14,13 @@ Many individual units have their own dedicated GitHub repositories, linked below
 
 ## 1. Web Development Foundations — **69% Complete**
 
->### 1.1 Welcome to the Full-Stack Engineer Path — ✅ Completed
->- Getting Started on Full-Stack Engineering ✅
->- Introduction: Overview of Web Development  ✅
->- The Internet and Web Development  ✅
->- Introduction to Software Engineering  ✅
->- Review: Overview of Web Development  ✅
+
+### 1.1 Welcome to the Full-Stack Engineer Path — ✅ Completed
+- Getting Started on Full-Stack Engineering ✅
+- Introduction: Overview of Web Development  ✅
+- The Internet and Web Development  ✅
+- Introduction to Software Engineering  ✅
+- Review: Overview of Web Development  ✅
 
 
 ### 1.2 Fundamentals of HTML — ✅ Completed
