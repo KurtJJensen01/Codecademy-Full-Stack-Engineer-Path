@@ -62,9 +62,8 @@ Many individual units have their own dedicated GitHub repositories, linked below
 - Review: Deploying Websites ✅  
 
 
-
 ### 1.6 Improved Styling with CSS — 🔄 In Progress
-**Repos:** [HTML CSS Cheat Sheet](https://github.com/KurtJJensen01/HTML-CSS-Cheat-Sheet) | [Challenge Project: Build a Website Design System](https://github.com/KurtJJensen01/Build-A-Website-Design-System)  
+**Repos:** [HTML CSS Cheat Sheet](https://github.com/KurtJJensen01/HTML-CSS-Cheat-Sheet) | [Challenge Project: Build a Website Design System](https://github.com/KurtJJensen01/ChallengeProject-BuildAWebsiteDesignSystem)  
 
 - Introduction: Improved Styling with CSS ✅  
 - Learn CSS: Colors ✅  
